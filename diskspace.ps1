@@ -1,1 +1,1 @@
-get-volume | Out-File -FilePath C:\\DriveSpace.txt
+get-process | Out-File -FilePath C:\\DriveSpace.txt
